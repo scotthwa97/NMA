@@ -1,0 +1,2 @@
+# PythonWorkshop2_NMA
+tutorials/W0D2_PythonWorkshop2/student/W0D2_Tutorial1.ipynb
